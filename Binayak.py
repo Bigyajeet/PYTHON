@@ -1,0 +1,1 @@
+side=int(input("Enter the side "))

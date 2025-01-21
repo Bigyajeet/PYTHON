@@ -1,0 +1,1 @@
+print("pthon is simple")
